@@ -1,5 +1,3 @@
-# stock-analysis
-Practice analyzing stock trends
 # Overview of Project
 
 This project investigates the benefits and challenges of refactoring code. Two different versions of the AllStocksAnalysis macro were run to compare the changes in runtime. The refactored version of the code also color-indicates stocks based on whether they were overall gains or losses for 2017-2018 and by what percentage. 
@@ -74,3 +72,4 @@ Based on the runtime output messages from the refactored macro, we can see that 
 ### Summary
 
 Generally the main benefits of refactoring code are improving performance, either through shorter run times or resolving bugs, and improving readability. Typically consolidating redundant or wordy code into something more efficient improves runtimes by limiting the number of processes being carried out, while in this case runtimes increased slightly because of added code blocks for color-coding. 
+
